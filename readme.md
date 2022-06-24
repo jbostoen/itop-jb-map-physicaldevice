@@ -1,6 +1,6 @@
 # jb-map-physicaldevice
 
-Copyright (C) 2019-2021Jeffrey Bostoen
+Copyright (c) 2019-2022 effrey Bostoen
 
 [![License](https://img.shields.io/github/license/jbostoen/iTop-custom-extensions)](https://github.com/jbostoen/iTop-custom-extensions/blob/master/license.md)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/jbostoen)
